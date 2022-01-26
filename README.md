@@ -4,4 +4,4 @@ For couples in long distance relationships. Count the number of times you missed
 * Download and open this project using Android Studio. 
 * Run the app with an emulator by clicking the run button or connect a physical device to install this app onto.
 # Using the App
-Every time you missed your SO, press on the number of times in the middle of the screen. At the end of the day, press SEND YOUR LOVE and choose a method from the prompt to send your message (Email or text messages). When a new day begins, click on START NEW DAY to reset the count. 
+Every time you missed your SO, press on the number of times in the middle of the screen. At the end of the day, press SEND YOUR LOVE and choose a method from the prompt to send your message (Email or messaging apps). When a new day begins, click on START NEW DAY to reset the count. 
